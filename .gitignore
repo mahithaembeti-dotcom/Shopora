@@ -1,0 +1,21 @@
+# Maven
+backend/target/
+backend/.mvn/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment / secrets
+backend/src/main/resources/application.properties
+*.env
+.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
