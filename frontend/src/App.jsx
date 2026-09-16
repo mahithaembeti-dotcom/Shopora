@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API = "http://localhost:8080/api";
+const API = "https://shopora-backend-9rk3.onrender.com/api";
 
 const categories = [
   "All",
